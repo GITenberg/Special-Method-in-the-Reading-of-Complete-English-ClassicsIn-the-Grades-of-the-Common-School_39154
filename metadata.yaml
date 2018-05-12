@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8799
     wikipedia: http://en.wikipedia.org/wiki/Charles_Alexander_McMurry
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39154#Special-Method-in-the-Reading-of-Complete-English-ClassicsIn-the-Grades-of-the-Common-School
 gutenberg_issued: '2012-03-15'
 gutenberg_type: Text
 identifiers:
