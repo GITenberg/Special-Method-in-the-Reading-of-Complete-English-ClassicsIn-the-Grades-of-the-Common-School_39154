@@ -1,0 +1,33 @@
+_repo: Special-Method-in-the-Reading-of-Complete-English-ClassicsIn-the-Grades-of-the-Common-School_39154
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: McMurry, Charles A. (Charles Alexander)
+    alias: McMurry, Charles Alexander
+    birthdate: 1857
+    deathdate: 1929
+    gutenberg_agent_id: '8799'
+    url: http://www.gutenberg.org/2009/agents/8799
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Alexander_McMurry
+description: ''
+gutenberg_issued: '2012-03-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39154'
+  lccn: 03003291
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American literature -- Study and teaching'
+- !lcc 'PR'
+- !lcsh 'English literature -- Study and teaching'
+- !lcc 'PS'
+title: 'Special Method in the Reading of Complete English Classics
+
+  In the Grades of the Common School'
+url: http://www.gutenberg.org/ebooks/39154
